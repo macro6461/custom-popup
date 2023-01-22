@@ -1,6 +1,6 @@
 # Custom JavaScript Popup
 
-A popup solution that requires no external libaries, frameworks, and is more robust (and customizable) than the default JavaScript alert. 
+A popup solution that requires no external libraries, frameworks, and is more robust (and customizable) than the default JavaScript alert. 
 
 ## Usage
 
