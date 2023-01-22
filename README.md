@@ -124,7 +124,3 @@ Feel free to follow me on [Medium](https://medium.com/@matt-croak). Upgrade to a
 You can also onnect with me on [my other socials](https://linktr.ee/mattcroak) as well!
 
 If you liked the custom popup, please [leave a Tip](https://paypal.me/mattcroak?country.x=US&amp;locale.x=en_US)!
-
-
-
-# custom-popup

@@ -1,0 +1,13 @@
+<div class="popup outer">
+    <div class="popup inner">
+        <button class="close">x</button>
+        <img src="giphy.gif"/>
+        <h3>Here is your popop!</h3>
+        <p>If you liked this tool, please leave a tip or follow me on Medium!</p>
+        <p>Thanks for using the custom popup!</p>
+        <a href="https://paypal.me/mattcroak?country.x=US&amp;locale.x=en_US" target="_blank">Paypal</a>
+        <a href="https://matt-croak.medium.com/membership" target="_blank">Medium</a>
+    </div>
+    <!-- uncomment below to use with full screen popup -->
+    <!-- <div class="background-mask"></div> -->
+</div>
